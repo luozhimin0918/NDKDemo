@@ -30,4 +30,9 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.0.0'
     compile 'com.github.luozhimin0918.LuoComLibJitPack:percent-support-extends:m1.0.32'
     compile 'com.github.luozhimin0918.LuoComLibJitPack:luolib:m1.0.32'
+    compile 'com.github.luozhimin0918.LuoComLibJitPack:comlib:m1.0.32'
+    compile 'com.github.luozhimin0918.LuoComLibJitPack:xrecyclerview:m1.0.32'
+    compile 'com.github.luozhimin0918.LuoComLibJitPack:kloglibraryMy:m1.0.32'
+    compile 'com.github.luozhimin0918.LuoComLibJitPack:FlycoTabLayout_Lib:m1.0.32'
+//    compile 'com.github.luozhimin0918.LuoComLibJitPack:publiclibrary:m1.0.32'
 }
